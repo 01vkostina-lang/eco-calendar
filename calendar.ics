@@ -41,4 +41,11 @@ DTEND:20260428T123000
 SUMMARY:Встреча по тиражированию с Дмитрием Иоффе
 DESCRIPTION:Встреча 4
 END:VEVENT
+BEGIN:VEVENT
+UID:ecoclub-1776348308676@cleangames.org
+DTSTART:20260429T120000
+DTEND:20260429T133000
+SUMMARY:Встреча по экологизации бизнеса
+DESCRIPTION:Реальные практики экологизации бизнеса, а не гринвошинг
+END:VEVENT
 END:VCALENDAR
