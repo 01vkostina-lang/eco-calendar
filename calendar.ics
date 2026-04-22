@@ -55,4 +55,11 @@ DTEND:20260523T113000
 SUMMARY:Утренняя встреча "Кофе и идеи"
 DESCRIPTION:Время московское\n
 END:VEVENT
+BEGIN:VEVENT
+UID:ecoclub-1776856270465@cleangames.org
+DTSTART:20260620T100000
+DTEND:20260620T113000
+SUMMARY:Утренняя встреча "Кофе и идеи"
+DESCRIPTION:Время московское
+END:VEVENT
 END:VCALENDAR
