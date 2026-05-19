@@ -77,4 +77,11 @@ SUMMARY:Встреча по вторичной одежде
 DESCRIPTION:
 URL:https://2px05rra.ktalk.ru/b1bqvue1tlxd
 END:VEVENT
+BEGIN:VEVENT
+UID:ecoclub-1779203068981@cleangames.org
+DTSTART:20260521T100000
+DTEND:20260521T110000
+SUMMARY:Встреча-мозгоштурм по ПФКИ
+DESCRIPTION:
+END:VEVENT
 END:VCALENDAR
