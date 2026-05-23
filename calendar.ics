@@ -85,4 +85,12 @@ SUMMARY:Встреча-мозгоштурм по ПФКИ
 DESCRIPTION:
 URL:https://ecoclub.ktalk.ru/nmnmqwusb6nx
 END:VEVENT
+BEGIN:VEVENT
+UID:ecoclub-1779531108221@cleangames.org
+DTSTART:20260526T100000
+DTEND:20260526T113000
+SUMMARY:Охота на колёса: что делать с миллионами брошенных шин
+DESCRIPTION:
+URL:https://ecoclub.ktalk.ru/npjeg9o1nkv8
+END:VEVENT
 END:VCALENDAR
