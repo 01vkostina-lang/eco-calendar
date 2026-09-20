@@ -114,4 +114,12 @@ DTEND:20260723T170000
 SUMMARY:Встреча-анонс проекта "Экопрактики в движении"
 DESCRIPTION:
 END:VEVENT
+BEGIN:VEVENT
+UID:ecoclub-1789942900025@cleangames.org
+DTSTART:20260923T110000
+DTEND:20260923T123000
+SUMMARY:Курс по грантам. Готовим сезон 2027
+DESCRIPTION:
+URL:https://ecoclub.ktalk.ru/ay3857k3vw0s
+END:VEVENT
 END:VCALENDAR
