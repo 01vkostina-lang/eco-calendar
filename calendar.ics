@@ -122,4 +122,11 @@ SUMMARY:Курс по грантам. Готовим сезон 2027
 DESCRIPTION:
 URL:https://ecoclub.ktalk.ru/ay3857k3vw0s
 END:VEVENT
+BEGIN:VEVENT
+UID:ecoclub-1789942931774@cleangames.org
+DTSTART:20260930T170000
+DTEND:20260930T183000
+SUMMARY:Курс по грантам. Готовим сезон 2027
+DESCRIPTION:
+END:VEVENT
 END:VCALENDAR
